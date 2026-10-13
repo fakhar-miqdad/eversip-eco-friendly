@@ -1,4 +1,4 @@
-## Eebsite Link :
+## Website Link :
 https://single-charm-display.lovable.app
 
 
