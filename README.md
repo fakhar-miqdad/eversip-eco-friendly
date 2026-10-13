@@ -2,7 +2,7 @@
 https://single-charm-display.lovable.app
 
 
-"# eversip-eco-friendly" 
+# eversip-eco-friendly" 
 EverSip – Eco-Friendly Water Bottle Marketing Campaign
 🌱 About the Project
 EverSip is an eco-friendly water bottle brand created to promote sustainable hydration and reduce reliance on single-use plastic bottles.
